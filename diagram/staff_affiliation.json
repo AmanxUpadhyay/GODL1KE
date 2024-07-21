@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Abayomi Otebolaku",
+        "affiliation": "Department of Computing, Sheffield Hallam University",
+        "email": "@shu.ac.uk",
+        "scholar_id": "QP-O59MAAAAJ",
+        "publications": [
+            {
+                "bib": {
+                    "title": "User context recognition using smartphone sensors and classification models",
+                    "pub_year": "2016",
+                    "citation": "Journal of Network and computer applications 66, 33-51, 2016"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Data Centric Trust Evaluation and Prediction Framework for IoT",
+                    "pub_year": "2017",
+                    "citation": "ITU Kaleidoscope 2017: Challenges for a data-driven society.  Nanjing, China., 2017"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Context-aware media recommendations for smart devices",
+                    "pub_year": "2015",
+                    "citation": "Journal of Ambient Intelligence and Humanized Computing 6, 13-36, 2015"
+                }
+            },
+            {
+                "bib": {
+                    "title": "An Efficient Resource Management Mechanism for Network Slicing in LTE Network",
+                    "pub_year": "2019",
+                    "citation": "IEEE Access, 2019"
+                }
+            },
+            {
+                "bib": {
+                    "title": "A Framework for Exploiting Internet of Things for Context-Aware Trust-based Personalized Services",
+                    "pub_year": "2018",
+                    "citation": "Mobile Information Systems, 2018"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Abdel-Karim Al-Tamimi",
+        "affiliation": "Senior Lecturer at Sheffield Hallam University, Associate Professor of Computer Eng, Yarmouk Univ",
+        "email": "@shu.ac.uk",
+        "scholar_id": "oVygx30AAAAJ",
+        "publications": [
+            {
+                "bib": {
+                    "title": "Scheduling in IEEE 802.16 e mobile WiMAX networks: key issues and a survey",
+                    "pub_year": "2009",
+                    "citation": "IEEE Journal on selected areas in communications 27 (2), 156-171, 2009"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Performance analysis of data encryption algorithms",
+                    "pub_year": "2011",
+                    "citation": "Electronics Computer Technology (ICECT), 2011 3rd International Conference \u2026, 2011"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Capacity evaluation for IEEE 802.16 e mobile WiMAX",
+                    "pub_year": "2010",
+                    "citation": "Journal of Computer Networks and Communications 2010 (1), 279807, 2010"
+                }
+            },
+            {
+                "bib": {
+                    "title": "System-level modeling of IEEE 802.16 E mobile WiMAX networks: key issues",
+                    "pub_year": "2008",
+                    "citation": "IEEE Wireless Communications 15 (5), 2008"
+                }
+            },
+            {
+                "bib": {
+                    "title": "eOCSA: An algorithm for burst mapping with strict QoS requirements in IEEE 802.16 e mobile WiMAX networks",
+                    "pub_year": "2009",
+                    "citation": "2009 2nd IFIP Wireless Days (WD), 1-5, 2009"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Abdussalam, Salama",
+        "affiliation": "PhD student",
+        "email": "@my.shu.ac.uk",
+        "scholar_id": "QXqMgegAAAAJ",
+        "publications": [
+            {
+                "bib": {
+                    "title": "Probabilistic Classification of Quality of Service in Wireless Computer Networks",
+                    "pub_year": "2018",
+                    "citation": "Information & Communications Technology Express, 2018"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Quality of service evaluation and assessment methods in wireless networks",
+                    "pub_year": "2017",
+                    "citation": "2017 4th International Conference on Information and Communication \u2026, 2017"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Fuzzy logic and regression approaches for adaptive sampling of multimedia traffic in wireless computer networks",
+                    "pub_year": "2018",
+                    "citation": "Technologies 6 (1), 24, 2018"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Adaptive sampling for QoS traffic parameters using fuzzy system and regression model",
+                    "pub_year": "2017",
+                    "citation": "International Journal of Mathematical Models and Methods in Applied Sciences \u2026, 2017"
+                }
+            },
+            {
+                "bib": {
+                    "title": "Adaptive sampling technique for computer network traffic parameters using a combination of fuzzy system and regression model",
+                    "pub_year": "2017",
+                    "citation": "2017 Fourth International Conference on Mathematics and Computers in \u2026, 2017"
+                }
+            }
+        ]
+    }
+]
