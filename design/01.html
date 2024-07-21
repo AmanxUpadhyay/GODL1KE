@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Street Photography</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="search-wrapper">
+                <div class="input-holder">
+                    <input type="text" class="search-input" placeholder="Type to search" />
+                    <button class="search-icon" onclick="searchToggle(this, event);"><span></span></button>
+                </div>
+                <span class="close" onclick="searchToggle(this, event);"></span>
+            </div>
+        </header>
+
+        <main>
+            <section class="content">
+                <div class="article-preview">
+                    <img src="your-image-path.jpg" alt="Viktoria Bolonina">
+                    <h2>Viktoria Bolonina</h2>
+                    <p>@viktoriaphotographs</p>
+                </div>
+                <div class="articles">
+                    <div class="article">
+                        <h3>The Only Rule in Street Photography</h3>
+                        <p>Nick Bedford - February 14, 2019</p>
+                    </div>
+                    <div class="article">
+                        <h3>Cabramatta: A Moment In Time</h3>
+                        <p>Markus Andersen - January 13, 2017</p>
+                    </div>
+                    <div class="article">
+                        <h3>The Storytellers Kit – Daniel Schaefer</h3>
+                        <p>Bellamy - November 3, 2014</p>
+                    </div>
+                    <div class="article">
+                        <h3>The Clock of Life in Street Photography</h3>
+                        <p>Shaun La - June 12, 2004</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
