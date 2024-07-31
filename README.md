@@ -106,9 +106,9 @@ For any questions or suggestions, please contact our team at [email@example.com]
 
 | Name                        | Student Number | Role                                  |
 |-----------------------------|----------------|---------------------------------------|
-| Smit Merchant               | 33078761       | Process and Quality Assurance Lead    |
-| Brijbhan Govardhan Prajapati| 33084787       | Front-End Development and Automation Specialist|
-| Ankit Kumar Ganesh Singh    | 33085894       | UI/UX Design Director                 |
+| Smit Merchant               | 33078761       | Quality Assurance                     |
+| Brijbhan Govardhan Prajapati| 33084787       | Front-End Developer                   |
+| Ankit Kumar Ganesh Singh    | 33085894       | UI Developer                          |
 | Akshay Darji                | 33076764       | Scrum Master and Project Manager      |
 | Aman Upadhyay               | 33076791       | Team Leader and Full-Stack Developer  |
 
